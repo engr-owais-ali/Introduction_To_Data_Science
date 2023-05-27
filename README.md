@@ -9,7 +9,7 @@ Introduction to Data Science is a course that introduces students to the basics 
 ## Completed Assignments
 
 - Assignment 1: Data Analysis on NISPUF17.csv
-- 
+- Assignment 2: Data Fetching from API, analysis and storage.
 
 
 ## Conclusion
